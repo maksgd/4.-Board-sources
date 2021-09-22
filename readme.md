@@ -1,5 +1,5 @@
 # Board-sources
-[Результат](https://maksgd.github.io/4.Board-sources/)
+[Результат](https://maksgd.github.io/Board-sources/)
 
 ***
 #### Реализован на чистом JS без доп. библиотек.
